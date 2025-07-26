@@ -6,4 +6,4 @@ variable "instance_type" {}
 variable "ami" {}
 variable "region" {}
 variable "key_name" {}
-variable "
+
